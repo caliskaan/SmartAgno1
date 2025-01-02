@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "447900633950",
+    "project_id": "sensoralert-3c70a",
+    "storage_bucket": "sensoralert-3c70a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447900633950:android:d895d1ec224f95c4f49dcf",
+        "android_client_info": {
+          "package_name": "com.example.agnoapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNwlhbBn0STDFpC696E8EvPty_9_HepCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
